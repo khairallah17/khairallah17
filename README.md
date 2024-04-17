@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a SAAS<br>👯 I’m looking to collaborate on freelance projects<br>🌱 I’m currently learning React Native<br>💬 Ask me about REACT <br>⚡ Fun fact - i'm not procrastinating, I'm just prioritizing my energy
+🔭 I’m currently working on a SAAS<br>👯 I’m looking to collaborate on freelance projects<br>🌱 I’m currently learning ML<br>💬 Ask me about NextJS <br>⚡ Fun fact - i'm not procrastinating, I'm just prioritizing my energy
 
 
 ## 🌐 Socials:
